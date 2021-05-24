@@ -15,19 +15,31 @@
 },
 {
     "popenumber": 2, 
-    "birthname": "Linus",
-    "papalname": "Linus",
-    "birthyear": 10,
-    "deathyear": 76,
-    "reignbegin":68,
-    "reignend": 76
+    "names": {
+        "birth": "Linus",
+        "papal": "Linus"
+    },
+    "life":{
+        "birthyear": 10,
+        "deathyear": 76
+    },
+    "reign":{
+        "beginning": 68,
+        "end": 76
+    }
 },
 {
     "popenumber": 3, 
-    "birthname": "Anacletus",
-    "papalname": "Anacletus",
-    "birthyear": 25,
-    "deathyear": 92,
-    "reignbegin":76,
-    "reignend": 92
+    "names":{
+        "birth": "Anacletus",
+        "papal": "Anacletus"
+    },
+    "life":{
+        "birthyear": 25,
+        "deathyear": 92
+    },
+    "reign":{
+        "reignbegin":76,
+        "reignend": 92
+    }
 }]
