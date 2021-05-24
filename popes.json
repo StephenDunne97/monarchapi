@@ -4,8 +4,10 @@
         "birth": "Shimon Bar Yonah",
         "papal": "Peter"
     },
-    "birthyear": 1,
-    "deathyear": 68,
+    "life": {
+        "birthyear": 1,
+        "deathyear": 68
+    },
     "reign": {
         "beginning": 30,
         "end": 68
