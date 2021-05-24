@@ -1,6 +1,6 @@
 [{
     "popenumber": 1,
-    "name": "Pope Saint Peter",
+    "title": "Pope Saint Peter",
     "names": {
         "birth": "Shimon Bar Yonah",
         "papal": "Peter"
@@ -16,7 +16,7 @@
 },
 {
     "popenumber": 2,
-    "name": "Pope Saint Linus I",
+    "title": "Pope Saint Linus I",
     "names": {
         "birth": "Linus",
         "papal": "Linus"
@@ -32,7 +32,7 @@
 },
 {
     "popenumber": 3,
-    "name": "Pope Saint Anacletus I",
+    "title": "Pope Saint Anacletus I",
     "names":{
         "birth": "Anacletus",
         "papal": "Anacletus"
