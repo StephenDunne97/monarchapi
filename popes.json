@@ -1,11 +1,15 @@
 [{
     "popenumber": 1, 
-    "birthname": "Shimon Bar Yonah",
-    "papalname": "Peter",
+    "names": {
+        "birth": "Shimon Bar Yonah",
+        "papal": "Peter"
+    },
     "birthyear": 1,
     "deathyear": 68,
-    "reignbegin":30,
-    "reignend": 68
+    "reign": {
+        "beginning": 30,
+        "end": 68
+    }
 },
 {
     "popenumber": 2, 
