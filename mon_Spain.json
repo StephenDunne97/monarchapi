@@ -1,0 +1,28 @@
+[
+    {
+        "name":  {
+          "full": "Felipe de Borbon y Baviera",
+          "first": "Felipe",
+          "house": "Bourbon"
+        },
+        "sex": "Male",
+        "country": "Spain",
+        "regnalInfo": {
+          "full": "King Felipe V",
+          "title": "King",
+          "name:":"Felipe",
+          "romNum": "V",
+          "num": 5
+        },
+        "reignStart": {
+          "day": 6,
+          "month": "September",
+          "year": 1724
+        },
+        "reignEnd": {
+          "day": 9,
+          "month": "July",
+          "year": 1746
+        }
+      }
+]
