@@ -1,54 +1,54 @@
 [
     {
         "name": {
-        "full": "Louis Dieudonne de Bourbon",
-        "first": "Louis",
-        "house": "Bourbon"
+            "full": "Louis Dieudonne de Bourbon",
+            "first": "Louis",
+            "house": "Bourbon"
         },
         "sex": "Male",
         "country": "France",
         "regnalInfo": {
-        "full": "King Louis XIV",
-        "title": "King",
-        "name:":"Louis",
-        "romNum": "XIV",
-        "num": 14
+            "full": "King Louis XIV",
+            "title": "King",
+            "name:":"Louis",
+            "romNum": "XIV",
+            "num": 14
         },
         "reignStart": {
-        "day": 14,
-        "month": "May",
-        "year": 1643
+            "day": 14,
+            "month": "May",
+            "year": 1643
         },
         "reignEnd": {
-        "day": 1,
-        "month": "September",
-        "year": 1715
+            "day": 1,
+            "month": "September",
+            "year": 1715
         }
   },
   {
-        "name":  {
-        "full": "Louis de Capet",
-        "first": "Louis",
-        "house": "Capet"
+        "name": {
+            "full": "Louis de Capet",
+            "first": "Louis",
+            "house": "Capet"
         },
         "sex": "Male",
         "country": "France",
         "regnalInfo": {
-        "full": "King Louis IX",
-        "title": "King",
-        "name:":"Louis",
-        "romNum": "IX",
-        "num": 9
+            "full": "King Louis IX",
+            "title": "King",
+            "name:":"Louis",
+            "romNum": "IX",
+            "num": 9
         },
         "reignStart": {
-        "day": 8,
-        "month": "November",
-        "year": 1226
+            "day": 8,
+            "month": "November",
+            "year": 1226
         },
         "reignEnd": {
-        "day": 25,
-        "month": "August",
-        "year": 1270
+            "day": 25,
+            "month": "August",
+            "year": 1270
         }
     }
 ]
