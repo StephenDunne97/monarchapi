@@ -1,0 +1,26 @@
+{
+    "name": {
+        "full": "Louis Dieudonne de Bourbon",
+        "first": "Louis",
+        "house": "Bourbon"
+    },
+    "sex": "Male",
+    "country": "France",
+    "regnalInfo": {
+        "full": "King Louis XIV",
+        "title": "King",
+        "name:":"Louis",
+        "romNum": "XIV",
+        "num": 14
+    },
+    "reignStart": {
+          "day": 14,
+          "month": "May",
+          "year": 1643
+    },
+    "reignEnd": {
+          "day": 1,
+          "month":"September",
+          "year": 1715
+    }
+}
