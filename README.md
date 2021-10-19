@@ -1,2 +1,2 @@
-# papal-api
-API for information on the Popes
+# monarch-api
+API and data-set on the worlds monarchs
